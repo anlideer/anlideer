@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I'm Qinglu from China. Currently, I’m a CS master student at the University of Helsinki.
+- 🌱 I'm Qinglu from China. Currently, I’m a CS master student at University of Helsinki.
 - 🔭 I’m passinated about game programming, so most of my repositories are game demos or related projects.
 - 👻 Of course I LOVE video games as well.
 - 👯 Glad to meet new people. 
