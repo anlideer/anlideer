@@ -6,7 +6,6 @@
 - 👯 Glad to meet new people. 
 - 📫 How to reach me: just email me anlideer@gmail.com
 
-🥰🥰🥰
 
 <!--
 **anlideer/anlideer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
