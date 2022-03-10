@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm Qinglu from China. Currently, I’m a CS master student at University of Helsinki.
-- 🔭 I’m passinated about game programming, so most of my repositories are game demos or related projects.
+- 🔭 I’m passinated about game and software dev.
 - 👻 Of course I love video games as well.
 - 🤠 Main skills: Unity&C#, C++, Python.
 - 📫 How to reach me: just email me anlideer@gmail.com
