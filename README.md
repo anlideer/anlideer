@@ -4,7 +4,7 @@
 - 🔭 I’m passinated about game and software dev.
 - 👻 Of course I love video games as well.
 - 🤠 Main skills: Unity, C#, C++, Python, Unreal Engine.
-- 📫 How to reach me: just email me anlideer@gmail.com
+- 📫 How to reach me: just email me qlgamedev@gmail.com
 
 
 <!--
